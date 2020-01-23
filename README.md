@@ -1,6 +1,6 @@
 # GAME FOR KIDS
 
-Contains games for kids. Program is developed in C / C++ / Python.
+Contains games for kids. Program is developed in C / C++ / Python 3.
 For now, there is two games in the repo:
 
 - 9x9 Tic Tac Toe game (in C)
