@@ -48,7 +48,7 @@ class Ping_Game(Frame):
 	def aAbout(self):
 		msg = Toplevel(self)
 		Message(msg, width = 200, aspect = 100, justify = CENTER,text = "Game of Ping\n\n" "MIT Licence\n\n"
-			   "THIS PROGRAM IS GIVEN AS IT IS WITH NO GUARANTEE.").pack(padx = 10,pady = 10)
+			   "THIS PROGRAM IS GIVEN AS IT IS WITH NO WARRANTY OF NO KIND.").pack(padx = 10,pady = 10)
 	
 if __name__ == '__main__':
 	Ping_Game().mainloop()
