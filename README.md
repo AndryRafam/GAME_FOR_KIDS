@@ -10,7 +10,7 @@ For now, there is two games in the repo:
 
 Game of Ping is a Mathematical game. Each pieces possess a white side and a black side. The game starts with all pieces in white side. Each times you click on a piece, the 8 adjacency pieces turns.The purpose of the game is to have all the pieces in same color. By default, the size of the board is 4x4.
 
-![Output Example](https://github.com/AndryRafam/Program-Output/blob/master/Game%20of%20Ping.png)
+![Output Example](https://github.com/AndryRafam/Program-Output/blob/master/Game_Ping.png)
 
 # ____________________________
 
